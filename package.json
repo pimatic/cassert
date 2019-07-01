@@ -13,10 +13,11 @@
     "debug"
   ],
   "dependencies": {
-    "callsite": "~1.0.0"
+    "callsite": "~1.0.0",
+    "source-map-support": "^0.4.0"
   },
   "license": "BSD",
   "engines": {
-    "node": "*"
+    "node": ">= 4"
   }
 }
